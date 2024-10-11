@@ -51,6 +51,22 @@ printf("Area Km²:813.420\n");
 printf("PIB: 53.262.55\n");
 printf("Pontos turisticos:20\n");
 
+printf("\n");
+printf("carta R04\n");
+
+printf("Estado: Rio de janeiro\n");
+printf("Carta: R04\n");
+printf("Cidade:Niteroi\n");
+printf("população:516.720\n");
+printf("Area Km²:133,757\n");
+printf("PIB: 128.333,01\n");
+printf("Pontos turisticos:16\n");
+
+
+
+
+
+
 scanf("%c", &Carta);
    return 0;
 }
