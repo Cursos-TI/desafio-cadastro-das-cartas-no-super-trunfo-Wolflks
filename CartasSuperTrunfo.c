@@ -13,10 +13,10 @@ float PIB=15.70;
 int Pontos_turisticos=15; 
 
 
-printf("Olá, bem vindo Super trunfo:\n");
+printf("Olá, bem vindo Super trunfo, Nesse jogo vamos Fazer umas Comparações entre Cartas!:\n");
 printf("\n");
 
-printf("Precione Enter para ver a primeira Carta!\n");
+printf("Vamos inicar com a primeira carta A01, Digite A01 para ver a primeira carta!\n");
 scanf("%s",&Carta);
 
 printf("\n");
