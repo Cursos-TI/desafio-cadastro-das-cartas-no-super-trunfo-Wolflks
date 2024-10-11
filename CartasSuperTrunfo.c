@@ -27,6 +27,10 @@ printf("população:278.881\n");
 printf("Area Km²:791.144\n");
 printf("PIB: 15.70\n");
 printf("Pontos turisticos:15\n");
+printf("\n");
+printf("Quantos pontos turisticos aproximadamente tem Petrópolis?");
+
+scanf("%s",&Pontos_turisticos);
 
 printf("\n");
 
@@ -52,6 +56,7 @@ printf("PIB: 53.262.55\n");
 printf("Pontos turisticos:20\n");
 
 printf("\n");
+
 printf("carta R04\n");
 
 printf("Estado: Rio de janeiro\n");
