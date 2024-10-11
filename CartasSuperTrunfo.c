@@ -13,7 +13,11 @@ float PIB=15.70;
 int Pontos_turisticos=15; 
 
 
-printf("Olá, bem vindo ao jogo, você pode escolher uma carta para inicar:\n");
+printf("Olá, bem vindo Super trunfo:\n");
+printf("\n");
+
+printf("Precione Enter para ver a primeira Carta!\n");
+scanf("%s",&Carta);
 
 printf("\n");
 
@@ -43,6 +47,10 @@ printf("população:843.046\n");
 printf("Area Km²:524.04\n");
 printf("PIB: 21.559.06\n");
 printf("Pontos turisticos:15\n");
+
+printf("Vamos para Proxima carta, Qual a população de Nova iguaçu?");
+
+scanf("%s",&Populacao);
 
 printf("\n");
 printf("carta R03\n");
