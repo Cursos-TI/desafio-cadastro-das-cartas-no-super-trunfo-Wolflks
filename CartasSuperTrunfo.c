@@ -77,15 +77,18 @@ printf("Pontos turisticos:16\n");
 
 printf("\n");
 
-printf("carta P01\n");
+printf("carta S01\n");
 
-printf("Estado: Lisboa\n");
-printf("Carta: P01\n");
-printf("Cidade:Setúbal\n");
-printf("população:123,519\n");
-printf("Area Km²:230,33\n");
-printf("PIB: 128.333,01\n");
-printf("Pontos turisticos:3\n");
+printf("Estado: São Paulo\n");
+printf("Carta: S01\n");
+printf("Cidade:Santos\n");
+printf("população:429.567\n");
+printf("Area Km²:281,033\n");
+printf("PIB: 55.508,46\n");
+printf("Pontos turisticos:20\n");
+ 
+
+
 
 
 
