@@ -16,7 +16,7 @@ int Pontos_turisticos=15;
 printf("Olá, bem vindo Super trunfo, Nesse jogo vamos Fazer umas Comparações entre Cartas!:\n");
 printf("\n");
 
-printf("Vamos inicar com a primeira carta A01, Digite A01 para ver a primeira carta!\n");
+printf("Vamos inicar com a primeira carta A01, Digite o Codigo A01 para ver a primeira carta!\n");
 scanf("%s",&Carta);
 
 printf("\n");
