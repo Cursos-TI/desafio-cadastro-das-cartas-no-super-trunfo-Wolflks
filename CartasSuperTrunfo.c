@@ -88,11 +88,4 @@ printf("PIB: 55.508,46\n");
 printf("Pontos turisticos:20\n");
 
 
-
-
-
-
-scanf("%c", &Carta);
-   
-   return 0;
 }
