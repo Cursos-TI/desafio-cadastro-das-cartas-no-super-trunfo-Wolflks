@@ -87,5 +87,19 @@ printf("Area Km²:281,033\n");
 printf("PIB: 55.508,46\n");
 printf("Pontos turisticos:20\n");
 
+printf("\n");
+
+printf("carta S02\n");
+
+printf("Estado: São Paulo\n");
+printf("Carta: S02\n");
+printf("Cidade:Guaruja\n");
+printf("população:294.973\n");
+printf("Area Km²:144,794\n");
+printf("PIB:32.292,29\n");
+printf("Pontos turisticos:20\n");
+
+
+
 
 }
