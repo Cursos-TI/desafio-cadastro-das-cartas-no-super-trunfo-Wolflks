@@ -38,6 +38,9 @@ scanf("%s",&Pontos_turisticos);
 
 printf("\n");
 
+printf("Proxima carta R02, para continuar digite o Codigo da Carta");
+scanf("%s"&Carta);
+
 printf("carta R02\n");
 
 printf("Estado: Rio de janeiro\n");
@@ -48,7 +51,9 @@ printf("Area Km²:524.04\n");
 printf("PIB: 21.559.06\n");
 printf("Pontos turisticos:15\n");
 
-printf("Vamos para Proxima carta, Qual a população de Nova iguaçu?");
+printf("\n");
+
+printf("Proxima carta, Qual a população de Nova iguaçu?");
 
 scanf("%s",&Populacao);
 
