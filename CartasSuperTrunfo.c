@@ -32,14 +32,14 @@ printf("Area Km²:791.144\n");
 printf("PIB: 15.70\n");
 printf("Pontos turisticos:15\n");
 printf("\n");
-printf("Quantos pontos turisticos aproximadamente tem Petrópolis?");
+printf("Quantos pontos turisticos aproximadamente tem Petrópolis?\n");
 
 scanf("%s",&Pontos_turisticos);
 
 printf("\n");
 
-printf("Proxima carta R02, para continuar digite o Codigo da Carta");
-scanf("%s"&Carta);
+printf("Proxima carta R02, para continuar digite o Codigo da Carta:\n");
+scanf("%s",&Carta);
 
 printf("carta R02\n");
 
@@ -53,7 +53,7 @@ printf("Pontos turisticos:15\n");
 
 printf("\n");
 
-printf("Proxima carta, Qual a população de Nova iguaçu?");
+printf("Proxima carta, Qual a população de Nova iguaçu?:\n");
 
 scanf("%s",&Populacao);
 
