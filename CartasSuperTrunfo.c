@@ -41,6 +41,8 @@ printf("\n");
 printf("Proxima carta R02, para continuar digite o Codigo da Carta:\n");
 scanf("%s",&Carta);
 
+printf("\n");
+
 printf("carta R02\n");
 
 printf("Estado: Rio de janeiro\n");
@@ -102,9 +104,46 @@ printf("Cidade:Guaruja\n");
 printf("população:294.973\n");
 printf("Area Km²:144,794\n");
 printf("PIB:32.292,29\n");
-printf("Pontos turisticos:20\n");
+printf("Pontos turisticos:15\n");
 
+printf("Quantos pontos turisticos tem Guaruja?:\n");
+scanf("%s",&Pontos_turisticos);
 
+printf("\n");
+
+printf("carta S03\n");
+
+printf("Estado: São paulo\n");
+printf("Carta: S03\n");
+printf("Cidade:Nova Iguaçu\n");
+printf("população:843.046\n");
+printf("Area Km²:524.04\n");
+printf("PIB: 21.559.06\n");
+printf("Pontos turisticos:15\n");
+
+printf("\n");
+
+printf("Proxima carta, Qual a população de Nova iguaçu?:\n");
+
+scanf("%s",&Populacao);
+
+printf("\n");
+
+printf("carta R02\n");
+
+printf("Estado: Rio de janeiro\n");
+printf("Carta: R02\n");
+printf("Cidade:Nova Iguaçu\n");
+printf("população:843.046\n");
+printf("Area Km²:524.04\n");
+printf("PIB: 21.559.06\n");
+printf("Pontos turisticos:15\n");
+
+printf("\n");
+
+printf("Proxima carta, Qual a população de Nova iguaçu?:\n");
+
+scanf("%s",&Populacao);
 
 
 }
