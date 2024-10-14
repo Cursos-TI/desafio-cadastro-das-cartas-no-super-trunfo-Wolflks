@@ -86,7 +86,6 @@ printf("população:429.567\n");
 printf("Area Km²:281,033\n");
 printf("PIB: 55.508,46\n");
 printf("Pontos turisticos:20\n");
- 
 
 
 
