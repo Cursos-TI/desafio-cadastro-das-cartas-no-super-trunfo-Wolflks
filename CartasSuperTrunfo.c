@@ -55,10 +55,13 @@ printf("Pontos turisticos:15\n");
 
 printf("\n");
 
-printf("Proxima carta, Qual a população de Nova iguaçu?:\n");
+printf("Qual a população de Nova iguaçu?:\n");
 
 scanf("%s",&Populacao);
 
+printf("\n");
+printf("Proxima carta R03, para continuar digite o Codigo da Carta:\n");
+scanf("%s",&Carta);
 printf("\n");
 printf("carta R03\n");
 
@@ -69,6 +72,15 @@ printf("população:179.120\n");
 printf("Area Km²:813.420\n");
 printf("PIB: 53.262.55\n");
 printf("Pontos turisticos:20\n");
+
+printf("\n");
+printf("Qual o PIB de Angra dos Reis?:\n");
+printf("\n");
+scanf("%s",&PIB);
+printf("\n");
+
+printf("Proxima carta R04, para continuar digite o Codigo da Carta:\n");
+scanf("%s",&Carta);
 
 printf("\n");
 
