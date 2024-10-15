@@ -127,16 +127,15 @@ printf("carta S03\n");
 
 printf("Estado: São paulo\n");
 printf("Carta: S03\n");
-printf("Cidade:Nova Iguaçu\n");
-printf("população:843.046\n");
-printf("Area Km²:524.04\n");
-printf("PIB: 21.559.06\n");
-printf("Pontos turisticos:15\n");
+printf("Cidade:Cubatão\n");
+printf("população:115.082\n");
+printf("Area Km²:142,879\n");
+printf("PIB:165.607,50\n");
+printf("Pontos turisticos:4\n");
 
 printf("\n");
 
-printf("Proxima carta, Qual a população de Nova iguaçu?:\n");
-
+printf("Proxima carta, Qual a população de Cubatão?:\n");
 scanf("%s",&Populacao);
 
 printf("\n");
@@ -157,5 +156,5 @@ printf("Proxima carta, Qual a população de Nova iguaçu?:\n");
 
 scanf("%s",&Populacao);
 
-
+retorn 0
 }
