@@ -96,7 +96,7 @@ printf("\n");
 
 printf("Qual a população de niteroi?\n");
 scanf("%f",&Populacao);
-printf("\n")
+printf("\n");
 
 printf("Proxima carta S01, para continuar digite o Codigo da Carta:\n");
 scanf("%s",&Carta);
