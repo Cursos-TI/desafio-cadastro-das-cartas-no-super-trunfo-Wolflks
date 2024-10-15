@@ -34,7 +34,7 @@ printf("Pontos turisticos:15\n");
 printf("\n");
 printf("Quantos pontos turisticos aproximadamente tem Petrópolis?\n");
 
-scanf("%s",&Pontos_turisticos);
+scanf("%d",&Pontos_turisticos);
 
 printf("\n");
 
@@ -57,7 +57,7 @@ printf("\n");
 
 printf("Qual a população de Nova iguaçu?:\n");
 
-scanf("%s",&Populacao);
+scanf("%f",&Populacao);
 
 printf("\n");
 printf("Proxima carta R03, para continuar digite o Codigo da Carta:\n");
@@ -76,7 +76,7 @@ printf("Pontos turisticos:20\n");
 printf("\n");
 printf("Qual o PIB de Angra dos Reis?:\n");
 printf("\n");
-scanf("%s",&PIB);
+scanf("%f",&PIB);
 printf("\n");
 
 printf("Proxima carta R04, para continuar digite o Codigo da Carta:\n");
@@ -136,7 +136,7 @@ printf("Pontos turisticos:4\n");
 printf("\n");
 
 printf("Proxima carta, Qual a população de Cubatão?:\n");
-scanf("%s",&Populacao);
+scanf("%f",&Populacao);
 
 printf("\n");
 
@@ -156,5 +156,6 @@ printf("\n");
 scanf("%f",&PIB);
 printf("\n");
 
-retorn 0
+return 0;
+
 }
