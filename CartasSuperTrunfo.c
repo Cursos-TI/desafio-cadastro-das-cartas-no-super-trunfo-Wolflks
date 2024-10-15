@@ -99,6 +99,7 @@ scanf("%f",&Populacao);
 printf("\n");
 
 printf("Proxima carta S01, para continuar digite o Codigo da Carta:\n");
+printf("\n")
 scanf("%s",&Carta);
 printf("\n");
 
