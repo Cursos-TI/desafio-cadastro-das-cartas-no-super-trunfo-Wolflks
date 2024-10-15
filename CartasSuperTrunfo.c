@@ -81,9 +81,7 @@ printf("\n");
 
 printf("Proxima carta R04, para continuar digite o Codigo da Carta:\n");
 scanf("%s",&Carta);
-
 printf("\n");
-
 printf("carta R04\n");
 
 printf("Estado: Rio de janeiro\n");
@@ -96,8 +94,11 @@ printf("Pontos turisticos:16\n");
 
 printf("\n");
 
-printf("carta S01\n");
+printf("Proxima carta S01, para continuar digite o Codigo da Carta:\n");
+scanf("%s",&Carta);
+printf("\n");
 
+printf("carta S01\n");
 printf("Estado: São Paulo\n");
 printf("Carta: S01\n");
 printf("Cidade:Santos\n");
@@ -108,8 +109,11 @@ printf("Pontos turisticos:20\n");
 
 printf("\n");
 
-printf("carta S02\n");
+printf("qual é a população de Santos?")
+scanf("%f",&Populacao);
+printf("\n")
 
+printf("carta S02\n");
 printf("Estado: São Paulo\n");
 printf("Carta: S02\n");
 printf("Cidade:Guaruja\n");
