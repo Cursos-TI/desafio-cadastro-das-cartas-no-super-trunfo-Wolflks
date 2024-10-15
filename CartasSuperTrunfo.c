@@ -94,6 +94,10 @@ printf("Pontos turisticos:16\n");
 
 printf("\n");
 
+printf("Qual a população de niteroi?\n");
+scanf("%f",&Populacao);
+printf("\n")
+
 printf("Proxima carta S01, para continuar digite o Codigo da Carta:\n");
 scanf("%s",&Carta);
 printf("\n");
@@ -146,10 +150,8 @@ printf("PIB:165.607,50\n");
 printf("Pontos turisticos:4\n");
 
 printf("\n");
-
 printf("Qual a população de Cubatão?:\n");
 scanf("%f",&Populacao);
-
 printf("\n");
 
 printf("Proxima carta S04, para continuar digite o Codigo da Carta:\n");
@@ -188,7 +190,22 @@ printf("\n");
 scanf("%f",&Area);
 printf("\n");
 
+printf("proxima carta C02, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta C02");
+printf("estado: Santa catarina\n");
+printf("carta\n");
+printf("cidade:Florianopolis\n");
+printf("população:576.361\n");
+printf("area km²:576.361\n");
+printf("PIB:45.602,98\n");
+printf("pontos turistico :2\n");
 
+printf("\n");
+printf("Quantos pontos turisticos tem Florianopolis?:\n");
+printf("\n");
+scanf("%f",&Pontos_turisticos);
+printf("\n");
 
 
 return 0;
