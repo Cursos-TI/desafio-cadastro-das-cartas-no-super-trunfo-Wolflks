@@ -208,6 +208,39 @@ scanf("%f",&Pontos_turisticos);
 printf("\n");
 
 
+printf("proxima carta C03, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta C03");
+printf("estado: Santa catarina\n");
+printf("carta C03\n");
+printf("Cidade:Abdon batista\n");
+printf("população:2.633\n");
+printf("area km²:237,517\n");
+printf("PIB:29.646,51\n");
+printf("pontos turisticos:1\n");
+
+printf("\n");
+printf("Quantos pontos turisticos tem Abdon batista?:\n");
+printf("\n");
+scanf("%f",&Pontos_turisticos);
+printf("\n");
+
+
+printf("\n");
+
+
+printf("proxima carta C02, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta C02");
+printf("estado: Santa catarina\n");
+printf("carta\n");
+printf("cidade:Florianopolis\n");
+printf("população:576.361\n");
+printf("area km²:576.361\n");
+printf("PIB:45.602,98\n");
+printf("pontos turistico :2\n");
+
+
 return 0;
 
 }
