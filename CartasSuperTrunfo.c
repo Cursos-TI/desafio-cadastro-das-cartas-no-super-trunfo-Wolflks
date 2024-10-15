@@ -109,9 +109,9 @@ printf("Pontos turisticos:20\n");
 
 printf("\n");
 
-printf("qual é a população de Santos?")
+printf("qual é a população de Santos?");
 scanf("%f",&Populacao);
-printf("\n")
+printf("\n");
 
 printf("Proxima carta S02, para continuar digite o Codigo da Carta:\n");
 scanf("%s",&Carta);
@@ -127,6 +127,7 @@ printf("PIB:32.292,29\n");
 printf("Pontos turisticos:15\n");
 
 printf("Quantos pontos turisticos tem Guaruja?:\n");
+printf("\n");
 scanf("%d",&Pontos_turisticos);
 printf("\n");
 
@@ -156,7 +157,6 @@ scanf("%s",&Carta);
 printf("\n");
 
 printf("carta s04\n");
-
 printf("Estado: São Paulo\n");
 printf("Carta: S04\n");
 printf("Cidade:barueri\n");
@@ -168,8 +168,28 @@ printf("Pontos turisticos:2\n");
 printf("\n");
 printf("Qual a area km² de Barueri?:\n");
 printf("\n");
-scanf("%f",&PIB);
+scanf("%f",&Area);
 printf("\n");
+
+printf("proxima carta C01, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta C01");
+printf("estado: Santa catarina\n");
+printf("carta\n");
+printf("cidade:Blumenal\n");
+printf("população:380.597\n");
+printf("area km²:518,619\n");
+printf("PIB:56.155,65\n");
+printf("pontos turisticos:5\n");
+
+printf("\n");
+printf("Qual a area km² de Blumenal?:\n");
+printf("\n");
+scanf("%f",&Area);
+printf("\n");
+
+
+
 
 return 0;
 
