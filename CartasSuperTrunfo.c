@@ -225,20 +225,16 @@ printf("\n");
 scanf("%f",&Pontos_turisticos);
 printf("\n");
 
-
-printf("\n");
-
-
 printf("proxima carta C02, para continuar digite o codigo da carta!\n");
 printf("\n");
 printf("carta C02");
 printf("estado: Santa catarina\n");
-printf("carta\n");
-printf("cidade:Florianopolis\n");
-printf("população:576.361\n");
-printf("area km²:576.361\n");
-printf("PIB:45.602,98\n");
-printf("pontos turistico :2\n");
+printf("carta: C02\n");
+printf("cidade:Joinville\n");
+printf("população:654.888\n");
+printf("area km²:1.127,947\n");
+printf("PIB:74.531,62\n");
+printf("pontos turistico:4\n");
 
 
 return 0;
