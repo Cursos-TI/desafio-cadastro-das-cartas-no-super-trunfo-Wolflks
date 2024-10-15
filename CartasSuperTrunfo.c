@@ -119,7 +119,7 @@ printf("PIB:32.292,29\n");
 printf("Pontos turisticos:15\n");
 
 printf("Quantos pontos turisticos tem Guaruja?:\n");
-scanf("%s",&Pontos_turisticos);
+scanf("%d",&Pontos_turisticos);
 
 printf("\n");
 
