@@ -142,19 +142,19 @@ printf("\n");
 
 printf("carta R02\n");
 
-printf("Estado: Rio de janeiro\n");
-printf("Carta: R02\n");
-printf("Cidade:Nova Iguaçu\n");
-printf("população:843.046\n");
-printf("Area Km²:524.04\n");
-printf("PIB: 21.559.06\n");
-printf("Pontos turisticos:15\n");
+printf("Estado: São Paulo\n");
+printf("Carta: S04\n");
+printf("Cidade:barueri\n");
+printf("população:330.339\n");
+printf("Area Km²:43,52\n");
+printf("PIB:207.460,98\n");
+printf("Pontos turisticos:2\n");
 
 printf("\n");
-
-printf("Proxima carta, Qual a população de Nova iguaçu?:\n");
-
-scanf("%s",&Populacao);
+printf("Qual a area km² de Barueri?:\n");
+printf("\n");
+scanf("%f",&PIB);
+printf("\n");
 
 retorn 0
 }
