@@ -113,6 +113,10 @@ printf("qual é a população de Santos?")
 scanf("%f",&Populacao);
 printf("\n")
 
+printf("Proxima carta S02, para continuar digite o Codigo da Carta:\n");
+scanf("%s",&Carta);
+printf("\n");
+
 printf("carta S02\n");
 printf("Estado: São Paulo\n");
 printf("Carta: S02\n");
@@ -124,7 +128,10 @@ printf("Pontos turisticos:15\n");
 
 printf("Quantos pontos turisticos tem Guaruja?:\n");
 scanf("%d",&Pontos_turisticos);
+printf("\n");
 
+printf("Proxima carta S03, para continuar digite o Codigo da Carta:\n");
+scanf("%s",&Carta);
 printf("\n");
 
 printf("carta S03\n");
@@ -139,12 +146,16 @@ printf("Pontos turisticos:4\n");
 
 printf("\n");
 
-printf("Proxima carta, Qual a população de Cubatão?:\n");
+printf("Qual a população de Cubatão?:\n");
 scanf("%f",&Populacao);
 
 printf("\n");
 
-printf("carta R02\n");
+printf("Proxima carta S04, para continuar digite o Codigo da Carta:\n");
+scanf("%s",&Carta);
+printf("\n");
+
+printf("carta s04\n");
 
 printf("Estado: São Paulo\n");
 printf("Carta: S04\n");
