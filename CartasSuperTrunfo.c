@@ -565,7 +565,22 @@ printf("Qual a Area Km² de Caldas novas?\n");
 scanf("%d",&Area);
 printf("\n");
 
+printf("proxima carta G04, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta:G04");
+printf("estado:Goiás\n");
+printf("carta:G04\n");
+printf("cidade:Trindade\n");
+printf("população:142.431\n");
+printf("area km²:712,690\n");
+printf("PIB:20.200,76\n");
+printf("pontos turistico:1\n");
 
+printf("\n");
+
+printf("Qual a Area Km² de Trindade?\n");
+scanf("%d",&Area);
+printf("\n");
 
 
 return 0;
