@@ -99,7 +99,6 @@ scanf("%f",&Populacao);
 printf("\n");
 
 printf("Proxima carta S01, para continuar digite o Codigo da Carta:\n");
-printf("\n")
 scanf("%s",&Carta);
 printf("\n");
 
@@ -223,7 +222,7 @@ printf("pontos turisticos:1\n");
 printf("\n");
 printf("Quantos pontos turisticos tem Abdon batista?:\n");
 printf("\n");
-scanf("%f",&Pontos_turisticos);
+scanf("%d",&Pontos_turisticos);
 printf("\n");
 
 printf("proxima carta C02, para continuar digite o codigo da carta!\n");
@@ -236,6 +235,29 @@ printf("população:654.888\n");
 printf("area km²:1.127,947\n");
 printf("PIB:74.531,62\n");
 printf("pontos turistico:4\n");
+
+printf("\n");
+
+printf("proxima carta C03, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta C02");
+printf("estado: Santa catarina\n");
+printf("carta: C03\n");
+printf("cidade:Chapecó\n");
+printf("população:275.959\n");
+printf("area km²:624,846\n");
+printf("PIB:60.166,46\n");
+printf("pontos turistico:10\n");
+
+printf("Qual o PIB de chapecó?\n");
+scanf("%f",&PIB);
+
+
+
+
+
+
+
 
 
 return 0;
