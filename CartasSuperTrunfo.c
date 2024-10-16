@@ -379,7 +379,7 @@ printf("proxima carta MA01, para continuar digite o codigo da carta!\n");
 printf("\n");
 printf("carta MA01");
 printf("estado: Maranhão\n");
-printf("carta: M01\n");
+printf("carta: MA01\n");
 printf("cidade:Imperatriz\n");
 printf("população:285.146\n");
 printf("area km²:1.369,039\n");
@@ -388,13 +388,43 @@ printf("pontos turistico:3\n");
 
 printf("\n");
 
-printf("Qual o PiB de São Luís?\n");
-scanf("%f",&PIB);
+printf("Qual a população de Imperatiz?\n");
+scanf("%f",&Populacao);
 printf("\n");
 
+printf("proxima carta MA02, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta MA02");
+printf("estado: Maranhão\n");
+printf("carta: MA02\n");
+printf("cidade:Alcântara\n");
+printf("população:18.774\n");
+printf("area km²:1.167,964\n");
+printf("PIB:6.725,00\n");
+printf("pontos turistico:2\n");
 
+printf("\n");
 
+printf("Qual a população de Alcantara?\n");
+scanf("%f",&Populacao);
+printf("\n");
 
+printf("proxima carta MA03, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta MA03");
+printf("estado: Maranhão\n");
+printf("carta: MA03\n");
+printf("cidade:São Luís\n");
+printf("população:1.088.057\n");
+printf("area km²:583,063\n");
+printf("PIB:32.739,65\n");
+printf("pontos turistico:2\n");
+
+printf("\n");
+
+printf("Qual a população de Alcantara?\n");
+scanf("%f",&Populacao);
+printf("\n");
 
 
 
