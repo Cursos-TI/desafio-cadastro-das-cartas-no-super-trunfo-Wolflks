@@ -276,19 +276,35 @@ printf("proxima carta M03, para continuar digite o codigo da carta!\n");
 printf("\n");
 printf("carta M03");
 printf("estado: Minas Gerais\n");
-printf("carta: M02\n");
+printf("carta: M03\n");
 printf("cidade:Ouro Preto\n");
 printf("população:74.821\n");
 printf("area km²:1.245,865\n");
 printf("PIB:127.232,37\n");
 printf("pontos turistico:18\n");
 
-printf("\/")
+printf("\n")
 
 printf("Qual o tamanho Km² Outro Preto?\n");
 scanf("%f",&Area);
 printf("\n");
 
+printf("proxima carta M04, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta M04");
+printf("estado: Minas Gerais\n");
+printf("carta: M04\n");
+printf("cidade:Mariana\n");
+printf("população:61.387\n");
+printf("area km²:1.194,208\n");
+printf("PIB:119.155,40\n");
+printf("pontos turistico:17\n");
+
+printf("\n")
+
+printf("Qual o tamanho Km² Mariana?\n");
+scanf("%f",&Area);
+printf("\n");
 
 
 
