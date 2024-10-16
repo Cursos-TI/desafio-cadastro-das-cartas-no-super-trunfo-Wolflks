@@ -283,7 +283,7 @@ printf("area km²:1.245,865\n");
 printf("PIB:127.232,37\n");
 printf("pontos turistico:18\n");
 
-printf("\n")
+printf("\n");
 
 printf("Qual o tamanho Km² Outro Preto?\n");
 scanf("%f",&Area);
@@ -300,7 +300,7 @@ printf("area km²:1.194,208\n");
 printf("PIB:119.155,40\n");
 printf("pontos turistico:17\n");
 
-printf("\n")
+printf("\n");
 
 printf("Qual o tamanho Km² Mariana?\n");
 scanf("%f",&Area);
@@ -317,7 +317,7 @@ printf("area km²:693,442 \n");
 printf("PIB:21.706,06\n");
 printf("pontos turistico:20\n");
 
-printf("\n")
+printf("\n");
 
 printf("Qual o tamanho PIB de Salvador\n");
 scanf("%f",&PIB);
@@ -334,7 +334,7 @@ printf("area km²:2.285,734\n");
 printf("PIB:24.702,76 \n");
 printf("pontos turistico:20\n");
 
-printf("\n")
+printf("\n");
 
 printf("Quantos pontos turisticos tem em Porto seguro?\n");
 scanf("%d",&Pontos_turisticos);
@@ -351,11 +351,12 @@ printf("area km²:2.285,734\n");
 printf("PIB:24.702,76 \n");
 printf("pontos turistico:20\n");
 
-printf("\n")
+printf("\n");
 
 printf("Quantos pontos turisticos tem em Porto seguro?\n");
 scanf("%d",&Pontos_turisticos);
 printf("\n");
+
 
 
 
