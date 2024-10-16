@@ -173,6 +173,7 @@ scanf("%f",&Area);
 printf("\n");
 
 printf("proxima carta C01, para continuar digite o codigo da carta!\n");
+scanf("%s",&Carta);
 printf("\n");
 printf("carta:C01");
 printf("estado:Santa catarina\n");
@@ -190,6 +191,7 @@ scanf("%f",&Area);
 printf("\n");
 
 printf("proxima carta C02, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:C02");
 printf("estado:Santa catarina\n");
@@ -208,6 +210,7 @@ printf("\n");
 
 
 printf("proxima carta C03, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:C03");
 printf("estado:Santa catarina\n");
@@ -225,6 +228,7 @@ scanf("%d",&Pontos_turisticos);
 printf("\n");
 
 printf("proxima carta C04, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:C04");
 printf("estado:Santa catarina\n");
@@ -238,6 +242,7 @@ printf("pontos turistico:4\n");
 printf("\n");
 
 printf("proxima carta MG01, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:MG01");
 printf("estado:Minas Gerais\n");
@@ -255,6 +260,7 @@ printf("\n");
 
 
 printf("proxima carta MG02, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:MG02");
 printf("estado:Minas Gerais\n");
@@ -272,6 +278,7 @@ printf("\n");
 
 
 printf("proxima carta MG03, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:MG03");
 printf("estado:Minas Gerais\n");
@@ -289,6 +296,7 @@ scanf("%f",&Area);
 printf("\n");
 
 printf("proxima carta MG04, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:MG04");
 printf("estado:Minas Gerais\n");
@@ -306,6 +314,7 @@ scanf("%f",&Area);
 printf("\n");
 
 printf("proxima carta B01, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:B01");
 printf("estado:Bahia\n");
@@ -323,6 +332,7 @@ scanf("%f",&PIB);
 printf("\n");
 
 printf("proxima carta B02, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:B02");
 printf("estado:Bahia\n");
@@ -340,6 +350,7 @@ scanf("%d",&Pontos_turisticos);
 printf("\n");
 
 printf("proxima carta B03, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:B03");
 printf("estado:Bahia\n");
@@ -357,6 +368,7 @@ scanf("%d",&Pontos_turisticos);
 printf("\n");
 
 printf("proxima carta B04, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:B04");
 printf("estado:Bahia\n");
@@ -375,6 +387,7 @@ printf("\n");
 
 
 printf("proxima carta MA01, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:MA01");
 printf("estado:Maranhão\n");
@@ -392,6 +405,7 @@ scanf("%f",&Populacao);
 printf("\n");
 
 printf("proxima carta MA02, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:MA02");
 printf("estado:Maranhão\n");
@@ -409,6 +423,7 @@ scanf("%f",&Populacao);
 printf("\n");
 
 printf("proxima carta MA03, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:MA03");
 printf("estado:Maranhão\n");
@@ -427,6 +442,7 @@ printf("\n");
 
 
 printf("proxima carta MA04, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:MA04");
 printf("estado:Maranhão\n");
@@ -444,6 +460,7 @@ scanf("%f",&Area);
 printf("\n");
 
 printf("proxima carta E01, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:E01");
 printf("estado:Espirito Santo\n");
@@ -461,6 +478,7 @@ scanf("%f",&Area);
 printf("\n");
 
 printf("proxima carta E02, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:E02");
 printf("estado:Espirito Santo\n");
@@ -479,6 +497,7 @@ printf("\n");
 
 
 printf("proxima carta E03, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:E03");
 printf("estado:Espirito Santo\n");
@@ -497,6 +516,7 @@ printf("\n");
 
 
 printf("proxima carta E04, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:E04");
 printf("estado:Espirito Santo\n");
@@ -514,6 +534,7 @@ scanf("%f",&PIB);
 printf("\n");
 
 printf("proxima carta G01, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:G01");
 printf("estado:Goiás\n");
@@ -531,6 +552,7 @@ scanf("%d",&Pontos_turisticos);
 printf("\n");
 
 printf("proxima carta G02, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:G02");
 printf("estado:Goiás\n");
@@ -548,6 +570,7 @@ scanf("%d",&Pontos_turisticos);
 printf("\n");
 
 printf("proxima carta G03, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:G03");
 printf("estado:Goiás\n");
@@ -565,6 +588,7 @@ scanf("%d",&Area);
 printf("\n");
 
 printf("proxima carta G04, para continuar digite o codigo da carta!\n");
+scanf("%s",&carta);
 printf("\n");
 printf("carta:G04");
 printf("estado:Goiás\n");
