@@ -514,6 +514,22 @@ printf("Qual PIB de Marataizes?\n");
 scanf("%f",&PIB);
 printf("\n");
 
+printf("proxima carta G01, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta G01");
+printf("estado: Espirito Santo\n");
+printf("carta: G01\n");
+printf("cidade:Goiânia\n");
+printf("população:1.494.599\n");
+printf("area km²:729,296\n");
+printf("PIB:38.483,54\n");
+printf("pontos turistico:8\n");
+
+printf("\n");
+
+printf("Quantos pontos turisticos tem em Goiânia?\n");
+scanf("%d",&Pontos_turisticos);
+printf("\n");
 
 
 
