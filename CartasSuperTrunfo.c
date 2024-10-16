@@ -506,12 +506,12 @@ printf("cidade:Marataízes\n");
 printf("população:467.722\n");
 printf("area km²:130,268\n");
 printf("PIB:169.634,89\n");
-printf("pontos turistico:7\n");
+printf("pontos turistico:1\n");
 
 printf("\n");
 
-printf("Qual Tamanho a Area Km² de vila velha?\n");
-scanf("%f",&Area);
+printf("Qual PIB de Marataizes?\n");
+scanf("%f",&PIB);
 printf("\n");
 
 
