@@ -422,11 +422,44 @@ printf("pontos turistico:2\n");
 
 printf("\n");
 
-printf("Qual a população de Alcantara?\n");
+printf("Qual a população de são Luíz?\n");
 scanf("%f",&Populacao);
 printf("\n");
 
 
+printf("proxima carta MA04, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta MA04");
+printf("estado: Maranhão\n");
+printf("carta: MA04\n");
+printf("cidade:Santo Amaro\n");
+printf("população:13.949\n");
+printf("area km²:1.582,806\n");
+printf("PIB:5.916,27\n");
+printf("pontos turistico:6\n");
+
+printf("\n");
+
+printf("Qual Tamanho a Area Km² de Santo Amaro?\n");
+scanf("%f",&Area);
+printf("\n");
+
+printf("proxima carta E01, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta E01");
+printf("estado: Espirito Santo\n");
+printf("carta: E01\n");
+printf("cidade:Vitoria\n");
+printf("população:322.869\n");
+printf("area km²:97,123\n");
+printf("PIB:85.035,67\n");
+printf("pontos turistico:4\n");
+
+printf("\n");
+
+printf("Qual Tamanho a Area Km² de Vitoria?\n");
+scanf("%f",&Area);
+printf("\n");
 
 
 
