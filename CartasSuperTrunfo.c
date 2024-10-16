@@ -238,16 +238,16 @@ printf("pontos turistico:4\n");
 
 printf("\n");
 
-printf("proxima carta m01, para continuar digite o codigo da carta!\n");
+printf("proxima carta MG01, para continuar digite o codigo da carta!\n");
 printf("\n");
-printf("carta M01");
+printf("carta MG01");
 printf("estado: Minas Gerais\n");
-printf("carta: M01\n");
+printf("carta: MG01\n");
 printf("cidade:Belo Horizonte\n");
 printf("população:2.416.339 \n");
 printf("area km²:331,354\n");
 printf("PIB:641.818,32\n");
-printf("pontos turistico:20\n");
+printf("pontos turistico:7\n");
 
 printf("Qual o PIB de Belo horizonte?\n");
 scanf("%f",&PIB);
@@ -255,16 +255,16 @@ scanf("%f",&PIB);
 printf("\n");
 
 
-printf("proxima carta M02, para continuar digite o codigo da carta!\n");
+printf("proxima carta MG02, para continuar digite o codigo da carta!\n");
 printf("\n");
-printf("carta M02");
+printf("carta MG02");
 printf("estado: Minas Gerais\n");
-printf("carta: M02\n");
+printf("carta: MG02\n");
 printf("cidade:Brumadinho\n");
 printf("população:40.777\n");
 printf("area km²:639,434\n");
 printf("PIB:112.233,99\n");
-printf("pontos turistico:14\n");
+printf("pontos turistico:5\n");
 
 printf("Qual o PIB de Brumadinho?\n");
 scanf("%f",&PIB);
@@ -272,16 +272,16 @@ scanf("%f",&PIB);
 printf("\n");
 
 
-printf("proxima carta M03, para continuar digite o codigo da carta!\n");
+printf("proxima carta MG03, para continuar digite o codigo da carta!\n");
 printf("\n");
-printf("carta M03");
+printf("carta MG03");
 printf("estado: Minas Gerais\n");
-printf("carta: M03\n");
+printf("carta: MG03\n");
 printf("cidade:Ouro Preto\n");
 printf("população:74.821\n");
 printf("area km²:1.245,865\n");
 printf("PIB:127.232,37\n");
-printf("pontos turistico:18\n");
+printf("pontos turistico:7\n");
 
 printf("\n");
 
@@ -289,16 +289,16 @@ printf("Qual o tamanho Km² Outro Preto?\n");
 scanf("%f",&Area);
 printf("\n");
 
-printf("proxima carta M04, para continuar digite o codigo da carta!\n");
+printf("proxima carta MG04, para continuar digite o codigo da carta!\n");
 printf("\n");
-printf("carta M04");
+printf("carta MG04");
 printf("estado: Minas Gerais\n");
-printf("carta: M04\n");
+printf("carta: MG04\n");
 printf("cidade:Mariana\n");
 printf("população:61.387\n");
 printf("area km²:1.194,208\n");
 printf("PIB:119.155,40\n");
-printf("pontos turistico:17\n");
+printf("pontos turistico:4\n");
 
 printf("\n");
 
@@ -315,7 +315,7 @@ printf("cidade:Salvador\n");
 printf("população:2.417.678\n");
 printf("area km²:693,442 \n");
 printf("PIB:21.706,06\n");
-printf("pontos turistico:20\n");
+printf("pontos turistico:8\n");
 
 printf("\n");
 
@@ -332,7 +332,7 @@ printf("cidade:Porto seguro\n");
 printf("população:181.007\n");
 printf("area km²:2.285,734\n");
 printf("PIB:24.702,76 \n");
-printf("pontos turistico:20\n");
+printf("pontos turistico:10\n");
 
 printf("\n");
 
@@ -371,6 +371,24 @@ printf("pontos turistico:3\n");
 printf("\n");
 
 printf("Qual o PiB de Itacaré?\n");
+scanf("%f",&PIB);
+printf("\n");
+
+
+printf("proxima carta MA01, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta MA01");
+printf("estado: Maranhão\n");
+printf("carta: M01\n");
+printf("cidade:Imperatriz\n");
+printf("população:285.146\n");
+printf("area km²:1.369,039\n");
+printf("PIB:29.592,70\n");
+printf("pontos turistico:3\n");
+
+printf("\n");
+
+printf("Qual o PiB de São Luís?\n");
 scanf("%f",&PIB);
 printf("\n");
 
