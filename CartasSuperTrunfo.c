@@ -461,6 +461,64 @@ printf("Qual Tamanho a Area Km² de Vitoria?\n");
 scanf("%f",&Area);
 printf("\n");
 
+printf("proxima carta E02, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta E02");
+printf("estado: Espirito Santo\n");
+printf("carta: E02\n");
+printf("cidade:Guarapari\n");
+printf("população:134.944\n");
+printf("area km²:589,825\n");
+printf("PIB:19.746,25\n");
+printf("pontos turistico:4\n");
+
+printf("\n");
+
+printf("Qual Tamanho a Area Km² de Guarapari?\n");
+scanf("%f",&Area);
+printf("\n");
+
+
+printf("proxima carta E03, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta E03");
+printf("estado: Espirito Santo\n");
+printf("carta: E03\n");
+printf("cidade:Vila Velha\n");
+printf("população:467.722\n");
+printf("area km²:210,225\n");
+printf("PIB:32.056,78\n");
+printf("pontos turistico:7\n");
+
+printf("\n");
+
+printf("Qual Tamanho a Area Km² de vila velha?\n");
+scanf("%f",&Area);
+printf("\n");
+
+
+printf("proxima carta E04, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta E04");
+printf("estado: Espirito Santo\n");
+printf("carta: E04\n");
+printf("cidade:Marataízes\n");
+printf("população:467.722\n");
+printf("area km²:130,268\n");
+printf("PIB:169.634,89\n");
+printf("pontos turistico:7\n");
+
+printf("\n");
+
+printf("Qual Tamanho a Area Km² de vila velha?\n");
+scanf("%f",&Area);
+printf("\n");
+
+
+
+
+
+
 
 
 return 0;
