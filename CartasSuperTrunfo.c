@@ -306,6 +306,58 @@ printf("Qual o tamanho Km² Mariana?\n");
 scanf("%f",&Area);
 printf("\n");
 
+printf("proxima carta B01, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta B01");
+printf("estado: Bahia\n");
+printf("carta: B01\n");
+printf("cidade:Salvador\n");
+printf("população:2.417.678\n");
+printf("area km²:693,442 \n");
+printf("PIB:21.706,06\n");
+printf("pontos turistico:20\n");
+
+printf("\n")
+
+printf("Qual o tamanho PIB de Salvador\n");
+scanf("%f",&PIB);
+printf("\n");
+
+printf("proxima carta B02, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta B02");
+printf("estado: Bahia\n");
+printf("carta: B02\n");
+printf("cidade:Porto seguro\n");
+printf("população:181.007\n");
+printf("area km²:2.285,734\n");
+printf("PIB:24.702,76 \n");
+printf("pontos turistico:20\n");
+
+printf("\n")
+
+printf("Quantos pontos turisticos tem em Porto seguro?\n");
+scanf("%d",&Pontos_turisticos);
+printf("\n");
+
+printf("proxima carta B03, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta B03");
+printf("estado: Bahia\n");
+printf("carta: B03\n");
+printf("cidade:Porto seguro\n");
+printf("população:181.007\n");
+printf("area km²:2.285,734\n");
+printf("PIB:24.702,76 \n");
+printf("pontos turistico:20\n");
+
+printf("\n")
+
+printf("Quantos pontos turisticos tem em Porto seguro?\n");
+scanf("%d",&Pontos_turisticos);
+printf("\n");
+
+
 
 
 
