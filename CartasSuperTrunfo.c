@@ -225,9 +225,9 @@ printf("\n");
 scanf("%d",&Pontos_turisticos);
 printf("\n");
 
-printf("proxima carta C02, para continuar digite o codigo da carta!\n");
+printf("proxima carta C04, para continuar digite o codigo da carta!\n");
 printf("\n");
-printf("carta C02");
+printf("carta C04");
 printf("estado: Santa catarina\n");
 printf("carta: C02\n");
 printf("cidade:Joinville\n");
@@ -240,17 +240,19 @@ printf("\n");
 
 printf("proxima carta C03, para continuar digite o codigo da carta!\n");
 printf("\n");
-printf("carta C02");
-printf("estado: Santa catarina\n");
-printf("carta: C03\n");
-printf("cidade:Chapecó\n");
-printf("população:275.959\n");
-printf("area km²:624,846\n");
-printf("PIB:60.166,46\n");
-printf("pontos turistico:10\n");
+printf("carta C03");
+printf("estado: Minas Gerais\n");
+printf("carta: M01\n");
+printf("cidade:Belo Horizonte\n");
+printf("população:2.416.339 \n");
+printf("area km²:331,354\n");
+printf("PIB:641.818,32\n");
+printf("pontos turistico:20\n");
 
-printf("Qual o PIB de chapecó?\n");
+printf("Qual o PIB de Belo horizonte?\n");
 scanf("%f",&PIB);
+printf("\n");
+
 
 
 
