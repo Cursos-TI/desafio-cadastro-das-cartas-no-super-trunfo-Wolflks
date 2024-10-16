@@ -345,19 +345,34 @@ printf("\n");
 printf("carta B03");
 printf("estado: Bahia\n");
 printf("carta: B03\n");
-printf("cidade:Porto seguro\n");
-printf("população:181.007\n");
-printf("area km²:2.285,734\n");
-printf("PIB:24.702,76 \n");
-printf("pontos turistico:20\n");
+printf("cidade:Ilhéus\n");
+printf("população:189.028\n");
+printf("area km²:1.588,555\n");
+printf("PIB:32.756,00\n");
+printf("pontos turistico:5\n");
 
 printf("\n");
 
-printf("Quantos pontos turisticos tem em Porto seguro?\n");
+printf("Quantos pontos turisticos tem em Ilhéus?\n");
 scanf("%d",&Pontos_turisticos);
 printf("\n");
 
+printf("proxima carta B04, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta B04");
+printf("estado: Bahia\n");
+printf("carta: B04\n");
+printf("cidade:Itacaré\n");
+printf("população:29.337\n");
+printf("area km²:726,265\n");
+printf("PIB:14.680,53\n");
+printf("pontos turistico:3\n");
 
+printf("\n");
+
+printf("Qual o PiB de Itacaré?\n");
+scanf("%f",&PIB);
+printf("\n");
 
 
 
