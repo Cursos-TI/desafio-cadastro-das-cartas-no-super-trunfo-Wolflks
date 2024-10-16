@@ -55,14 +55,14 @@ printf("Pontos turisticos:15\n");
 
 printf("\n");
 
-printf("Qual a população de Nova iguaçu?:\n");
+printf("Qual a população de Nova iguaçu?\n");
 
 scanf("%f",&Populacao);
 
 printf("\n");
 printf("Proxima carta R03, para continuar digite o Codigo da Carta:\n");
 scanf("%s",&Carta);
-printf("\n");
+
 printf("carta:R03\n");
 
 printf("Estado:Rio de janeiro\n");
@@ -74,14 +74,13 @@ printf("PIB: 53.262.55\n");
 printf("Pontos turisticos:20\n");
 
 printf("\n");
-printf("Qual o PIB de Angra dos Reis?:\n");
+printf("Qual o PIB de Angra dos Reis?\n");
 printf("\n");
 scanf("%f",&PIB);
 printf("\n");
 
-printf("Proxima carta R04, para continuar digite o Codigo da Carta:\n");
+printf("para Proxima Carta Digite R04!\n");
 scanf("%s",&Carta);
-printf("\n");
 
 printf("carta:R04\n");
 printf("Estado:Rio de janeiro\n");
@@ -114,7 +113,7 @@ printf("Pontos turisticos:20\n");
 printf("\n");
 
 printf("qual é a população de Santos?");
-scanf("%f",&Populacao);
+scanf("%s",&Carta);
 printf("\n");
 
 printf("Proxima carta S02, para continuar digite o Codigo da Carta:\n");
