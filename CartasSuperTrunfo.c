@@ -238,9 +238,9 @@ printf("pontos turistico:4\n");
 
 printf("\n");
 
-printf("proxima carta C03, para continuar digite o codigo da carta!\n");
+printf("proxima carta m01, para continuar digite o codigo da carta!\n");
 printf("\n");
-printf("carta C03");
+printf("carta M01");
 printf("estado: Minas Gerais\n");
 printf("carta: M01\n");
 printf("cidade:Belo Horizonte\n");
@@ -251,6 +251,42 @@ printf("pontos turistico:20\n");
 
 printf("Qual o PIB de Belo horizonte?\n");
 scanf("%f",&PIB);
+
+printf("\n");
+
+
+printf("proxima carta M02, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta M02");
+printf("estado: Minas Gerais\n");
+printf("carta: M02\n");
+printf("cidade:Brumadinho\n");
+printf("população:40.777\n");
+printf("area km²:639,434\n");
+printf("PIB:112.233,99\n");
+printf("pontos turistico:14\n");
+
+printf("Qual o PIB de Brumadinho?\n");
+scanf("%f",&PIB);
+
+printf("\n");
+
+
+printf("proxima carta M03, para continuar digite o codigo da carta!\n");
+printf("\n");
+printf("carta M03");
+printf("estado: Minas Gerais\n");
+printf("carta: M02\n");
+printf("cidade:Ouro Preto\n");
+printf("população:74.821\n");
+printf("area km²:1.245,865\n");
+printf("PIB:127.232,37\n");
+printf("pontos turistico:18\n");
+
+printf("\/")
+
+printf("Qual o tamanho Km² Outro Preto?\n");
+scanf("%f",&Area);
 printf("\n");
 
 
